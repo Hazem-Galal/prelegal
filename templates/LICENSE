@@ -1,0 +1,43 @@
+Legal Document Templates - License
+===================================
+
+The legal document templates contained in this directory (the "Templates")
+are sourced from Common Paper (https://www.commonpaper.com), via its public
+GitHub organization at https://github.com/CommonPaper.
+
+The Templates are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+  - Share — copy and redistribute the Templates in any medium or format.
+  - Adapt — remix, transform, and build upon the Templates for any purpose,
+    even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to Common Paper, provide
+    a link to the license, and indicate if changes were made. You may do so
+    in any reasonable manner, but not in any way that suggests Common Paper
+    endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license
+permits.
+
+This license applies only to the Templates in this directory and does not
+affect the license of the rest of this repository (see the project's root
+LICENSE file).
+
+Source repositories:
+  - https://github.com/CommonPaper/Mutual-NDA
+  - https://github.com/CommonPaper/CSA
+  - https://github.com/CommonPaper/SLA
+  - https://github.com/CommonPaper/PSA
+  - https://github.com/CommonPaper/DPA
+  - https://github.com/CommonPaper/Software-License-Agreement
+  - https://github.com/CommonPaper/Partnership-Agreement
+  - https://github.com/CommonPaper/Pilot-Agreement
+  - https://github.com/CommonPaper/BAA
+  - https://github.com/CommonPaper/AI-Addendum
+  - https://github.com/CommonPaper/Design-Partner-Agreement
